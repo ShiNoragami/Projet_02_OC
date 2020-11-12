@@ -1,3 +1,5 @@
+![Cover](https://github.com/ShiNoragami/Projet_02_OC/blob/master/magicgithub.png)
+
 # Magic Github
 
 2ème projet de la formation Développeur Android OpenClassrooms.
